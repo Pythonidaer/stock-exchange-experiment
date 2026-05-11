@@ -1,0 +1,20 @@
+// Batch 1 — foundational layouts
+export { D3BarChart } from './D3BarChart'
+export { D3BubbleChart } from './D3BubbleChart'
+export { D3ForceGraph } from './D3ForceGraph'
+export { D3Treemap } from './D3Treemap'
+export { D3PackedCircles } from './D3PackedCircles'
+export { D3RadialChart } from './D3RadialChart'
+export { D3ScatterPlot } from './D3ScatterPlot'
+
+// Batch 2 — extended visualizations
+export { D3DonutChart } from './D3DonutChart'
+export { D3Histogram } from './D3Histogram'
+export { D3Heatmap } from './D3Heatmap'
+export { D3Sunburst } from './D3Sunburst'
+export { D3Sankey } from './D3Sankey'
+export { D3WordCloud } from './D3WordCloud'
+export { D3BeeswarmPlot } from './D3BeeswarmPlot'
+export { D3LollipopChart } from './D3LollipopChart'
+export { D3VoronoiDiagram } from './D3VoronoiDiagram'
+export { D3ZoomableTreemap } from './D3ZoomableTreemap'

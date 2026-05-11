@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+storybook-static/
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# editor
+.DS_Store
+*.local
+
+# Vite cache
+.vite/
